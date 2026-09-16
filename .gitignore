@@ -1,0 +1,21 @@
+# Visual Studio / .NET generated files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Publish and installer artifacts
+publish/
+release/
+installer/payload/
+*.zip
+*.exe
+*.pdb
+
+# Runtime data
+users.json
+received_sms.json
+*.tmp
+*.log
+appsettings.local.json
